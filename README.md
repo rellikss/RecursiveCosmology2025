@@ -1,5 +1,3 @@
-# RecursiveCosmology2025
-Simulations and whitepaper for Recursive Cosmology model
 # Recursive Cosmology 2025
 
 Whitepaper and simulations for "Recursive Cosmology and Cosmic Memory: A Fractal-Torsion Framework for Universe Evolution" by Brett Harris and Grok (xAI).
