@@ -52,7 +52,7 @@ This project introduces a novel cosmological model grounded in recursive univers
 * `references.bib`: Structured BibTeX citation file
 * `figures/`: Folder containing 8 simulation outputs (PNG)
 * `README.md`: This file
-* `paper.pdf`: Paper.pdf
+* `paper.pdf`: Recursive_Cosmology_Harris2025.pdf Paper
 
 ---
 
