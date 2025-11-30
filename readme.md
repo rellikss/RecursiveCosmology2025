@@ -1,66 +1,59 @@
-# Recursive Cosmology and Cosmic Memory
+# Recursive Cosmology and Cosmic Memory (2025)
 
-This project contains the source files for the paper:  
-**"Recursive Cosmology and Cosmic Memory: A Fractal-Torsion Framework for Universe Evolution"**
-
-Author: Brett Harris  
-Contact: rellikss@outlook.com  
+**A Fractal-Torsion Framework for Universe Evolution**  
+*Author: Brett Harris · rellikss@outlook.com*
 
 ---
 
-### Overview
+🚀 This project presents a novel cosmological model where the universe evolves recursively through black hole bounces — carrying forward memory in the form of torsion, spin alignment, and entropy structure.
 
-This project introduces a novel cosmological model grounded in recursive universe cycles, black hole bounce mechanics, and torsion-based information inheritance. Inspired by tensions in standard cosmology (ΛCDM) — such as early galaxy formation, spin alignments, and low-ℓ CMB anomalies — we propose a field-theoretic framework that simulates structure emergence without invoking dark matter or dark energy.
+### 📄 Paper (PDF)
 
----
+**Download the full paper:**  
+👉 [RecursiveCosmology_Harris2025.pdf](RecursiveCosmology_Harris2025.pdf)
 
-### Key Contributions
-
-* **Lagrangian Formalism**:
-  We construct a total Lagrangian including:
-
-  * Fractal quantum potential (Bohm-like)
-  * Entropy surface terms (holographic)
-  * Torsion-spin memory gradients
-
-* **Simulation Suite**:
-  Eight original simulations model:
-
-  * Recursive bounce dynamics
-  * Shell-bound entropy fields
-  * Spin inheritance across universes
-  * Large-scale spin and structure emergence
-
-* **Emergent Time & AdS/CFT Geometry**:
-  Time is redefined as a radial complexity integral of entropy modes:
-  [
-  \tau \sim \int_{r_0}^{r} C[S(\theta, r')] , dr'
-  ]
-  This connects causal structure with holographic boundary data in an AdS-like foliation.
-
-* **Dark Matter Analogue**:
-  Flat galaxy rotation curves, gravitational lensing, and halo formations are replicated from pure field geometry — no exotic matter required.
-
-* **ΛCDM Comparison**:
-  The model reproduces key cosmological signatures using only geometric mechanisms, and suggests a new interpretation of “dark” phenomena as inherited causal structure.
+Compiled in LaTeX with full citations, equations, and simulation figures.
 
 ---
 
-### Files Included
+### 📁 Repository Contents
 
-* `main.tex`: Full LaTeX source of the paper
-* `references.bib`: Structured BibTeX citation file
-* `figures/`: Folder containing 8 simulation outputs (PNG)
-* `README.md`: This file
-* `paper.pdf`: Recursive_Cosmology_Harris2025.pdf Paper
+| File/Folder | Description |
+|-------------|-------------|
+| `main.tex` | The LaTeX source file for the full paper |
+| `references.bib` | BibTeX file containing all citations |
+| `figures/` | Folder with simulation figures (e.g. `sim1_bounce_data.png`) |
+| `RecursiveCosmology_Harris2025.pdf` | Final compiled PDF of the paper |
+| `README.md` | Project description and paper link |
+
+---
+
+### 🧠 Model Highlights
+
+- **Recursive cosmology** via bounce mechanics and torsion fields  
+- **Spin memory and entropy inheritance** across generations  
+- **AdS/CFT embedding** and emergent time via entanglement  
+- **Dark matter analogue** from geometry — no exotic particles  
+- **Early galaxy maturity** explained without inflation or tuning
+
+Simulation outputs show alignment with observations from **JWST**, **SDSS**, and **Planck**.
 
 ---
 
-### Goals and Future Work
+### 📬 Contact
 
-* Expand AdS/CFT embedding formalism
-* Link fractal modes to quantum gravity observables
-* Release animation suite and datasets
-* Submit to arXiv and relevant journal(s)
+For questions, collaboration, or dataset access:
+
+**Brett Harris**  
+📧 rellikss@outlook.com  
+🔗 https://github.com/rellikss
 
 ---
+
+### 📘 License (optional)
+
+This work is shared for academic and preprint purposes only.  
+Feel free to fork or cite with attribution.
+
+---
+
