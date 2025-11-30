@@ -1,12 +1,10 @@
----
+# Recursive Cosmology and Cosmic Memory
 
-## Recursive Cosmology and Cosmic Memory:
+This project contains the source files for the paper:  
+**"Recursive Cosmology and Cosmic Memory: A Fractal-Torsion Framework for Universe Evolution"**
 
-### A Fractal-Torsion Framework for Universe Evolution
-
-**Author**: Brett Harris
-**Contact**: [rellikss@outlook.com](mailto:rellikss@outlook.com)
-**arXiv Preprint (pending)**
+Author: Brett Harris  
+Contact: rellikss@outlook.com  
 
 ---
 
