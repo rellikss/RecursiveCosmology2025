@@ -5,7 +5,7 @@
 
 ---
 
-🚀 This project presents a novel cosmological model where the universe evolves recursively through black hole bounces — carrying forward memory in the form of torsion, spin alignment, and entropy structure.
+🚀 This project presents a novel cosmological model where the universe evolves recursively through black hole bounces --- carrying forward memory in the form of torsion, spin alignment, and entropy structure.
 
 ### 📄 Paper (PDF)
 
