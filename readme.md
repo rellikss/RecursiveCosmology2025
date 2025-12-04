@@ -33,7 +33,7 @@ Compiled in LaTeX with full citations, equations, and simulation figures.
 - **Recursive cosmology** via bounce mechanics and torsion fields  
 - **Spin memory and entropy inheritance** across generations  
 - **AdS/CFT embedding** and emergent time via entanglement  
-- **Dark matter analogue** from geometry — no exotic particles  
+- **Dark matter analogue** from geometry | no exotic particles  
 - **Early galaxy maturity** explained without inflation or tuning
 
 Simulation outputs show alignment with observations from **JWST**, **SDSS**, and **Planck**.
